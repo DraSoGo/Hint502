@@ -1,5 +1,3 @@
-//เลื่อนลงไปด้านล่างสุดก่อน
-
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -73,15 +71,3 @@ int main()
     
     return 0;
 }
-/*
-HHHBVFLUOAFDFGOGEPECHCDICBEBAB
-7 7
-7 1 21 5 11 20 14
-0 5 3
-5 6 14
-6 4 15
-4 2 7
-2 3 8
-2 1 4
-1 0 1
-*/
