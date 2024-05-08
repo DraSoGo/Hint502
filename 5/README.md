@@ -14,4 +14,4 @@
 - https://www.onlinegdb.com/online_c++_compiler
 - https://onecompiler.com/cpp
 
-### นำโค้ดไป run โดยใช้ input เป็น `ANS2` จะได้ output ออกมาโดย output คือ `ANS5` (output มีแค่ 2 บรรทัดถ้าใช้เว็บ output คือ 2 บรรทัดสุดท้ายนะ)
+### นำโค้ด `5.cpp` ไป run โดยใช้ input เป็น `ANS2` จะได้ output ออกมาโดย output คือ `ANS5` (output มีแค่ 2 บรรทัดถ้าใช้เว็บ output คือ 2 บรรทัดสุดท้ายนะ)
