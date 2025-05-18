@@ -4,9 +4,9 @@
 
 ### โปรแกรม
 
-<img height = "100" src = "https://yt3.googleusercontent.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj"> <img height = "100" src = "https://i0.wp.com/www.ba-na-na.net/wp-content/uploads/2016/10/codeblock-logo.png?resize=500%2C149">
+<img height = "100" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"> <img height = "100" src = "https://i0.wp.com/www.ba-na-na.net/wp-content/uploads/2016/10/codeblock-logo.png?resize=500%2C149">
 
-### |　vscode　　　　　　　codeblock　　　　　　　　　|
+### | vscode　　　　codeblock　　　　　　　　|
 
 ### เว็บ
 
